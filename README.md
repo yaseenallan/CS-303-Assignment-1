@@ -8,6 +8,7 @@ Interactive Menu:
 After the initial load, the program displays an interactive menu with options to:
 
 Display Array: Calls printArray to show the current array.
+https://github.com/yaseenallan/CS-303-Assignment-1/blob/52e6e698de1aaeeeaf88227a9d70823fbe51bceb/Screenshot%20DS%201.png
 
 Search Element: Uses searchElement to find an element and display its index.
 Modify Element: Uses modifyElement (within a try-catch block) to update an element's value.
