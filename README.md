@@ -18,6 +18,8 @@ Modify Element: Uses modifyElement (within a try-catch block) to update an eleme
 https://github.com/yaseenallan/CS-303-Assignment-1/blob/b1f99a0490fc9b576d9b48a308c9ecdba8923b9a/Screenshot%20DS%203.png
 
 Add Element: Uses addElement (within a try-catch block) to append a new element.
+https://github.com/yaseenallan/CS-303-Assignment-1/blob/44eb3a086d85cad009e043ac5db18e3f249d275b/Screenshot%20DS%204.png
+
 Remove Element: Uses removeElement to delete an element.
 Exit: Ends the program.
 Memory Cleanup:
