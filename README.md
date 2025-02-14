@@ -24,5 +24,7 @@ Remove Element: Uses removeElement to delete an element.
 https://github.com/yaseenallan/CS-303-Assignment-1/blob/141adaf24ee553d528f92fb49247b4a77eaebb60/Screenshot%20DS%205.png
 
 Exit: Ends the program.
+https://github.com/yaseenallan/CS-303-Assignment-1/blob/14a8283c7125a910f65704088c3b5adc33eb2277/Screenshot%20DS%206.png
+
 Memory Cleanup:
 Before the program exits, it deallocates the dynamic array to free the memory.
