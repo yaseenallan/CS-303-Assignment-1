@@ -15,6 +15,8 @@ Search Element: Uses searchElement to find an element and display its index.
 https://github.com/yaseenallan/CS-303-Assignment-1/blob/1948b773f1eaed49c826092d84d4594c2126c76c/Screenshot%20DS%202.png
 
 Modify Element: Uses modifyElement (within a try-catch block) to update an element's value.
+https://github.com/yaseenallan/CS-303-Assignment-1/blob/b1f99a0490fc9b576d9b48a308c9ecdba8923b9a/Screenshot%20DS%203.png
+
 Add Element: Uses addElement (within a try-catch block) to append a new element.
 Remove Element: Uses removeElement to delete an element.
 Exit: Ends the program.
