@@ -1,5 +1,7 @@
 Name: Yaseen Allan
 
+This program dynamically manages an array by reading integers from "input.txt" and allowing the user to interactively search, modify, add, and remove elements with exception handling, while displaying the updated array after each operation.
+
 HOW THE PROGRAM WORKS
 
 Reading Input:
